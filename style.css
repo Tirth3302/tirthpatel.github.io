@@ -11,3 +11,7 @@
     align-items: center;
     
 }
+
+.img-fluid{
+    border-radius: 100%;
+}
